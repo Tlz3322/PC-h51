@@ -1,0 +1,20 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.format.enable": false,
+  "vetur.format.enable": false,
+  "volar.format.enable": false,
+  "prettier.singleAttributePerLine": true,
+  "prettier.printWidth": 100,
+  "prettier.semi": false,
+  "prettier.requireConfig": false
+}
